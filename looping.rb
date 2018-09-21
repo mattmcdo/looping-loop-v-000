@@ -4,7 +4,7 @@ def looping
     puts "Wingardium Leviosa"
     puts "#{counter}"
   counter +=1
-  if counter > 10
+  if counter > 15
     break
   end
 end
